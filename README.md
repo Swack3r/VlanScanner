@@ -33,11 +33,11 @@ cd vlan-scanner
 ```
 Run the script with:
 ```bash
-sudo python3 vlan_scanner.py
+sudo python3 main.py
 ```
 To specify a network interface:
 ```bash
-sudo python3 vlan_scanner.py -i eth0
+sudo python3 main.py -i eth0
 ```
 
 ## Notes
