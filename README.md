@@ -28,7 +28,7 @@ pip3 install scapy termcolor
 ## Usage
 Clone this repository and navigate to the directory:
 ```bash
-git clone https://github.com/yourusername/vlan-scanner.git
+git clone https://github.com/Swack3r/VlanScanner
 cd vlan-scanner
 ```
 Run the script with:
